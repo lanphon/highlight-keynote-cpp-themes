@@ -1,7 +1,8 @@
 # Introduction
 
 This small project is used to show the effects of  different themes for
-highlight tool on Keynote, with CPP code sample.
+[highlight](http://www.andre-simon.de/doku/highlight/en/highlight.html) tool on
+Keynote, with CPP code sample.
 
 In fact, it's more like a physical work. A final result keynote document
 is presented here, to let me brower different themes of highligh on
